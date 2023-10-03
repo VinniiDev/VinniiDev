@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Front-End <br>🤝 Estou a procura de Estagio<br>🌱 ADS - Unicesumar
+🔭 Sou estudante de Back-End <br>🤝 Estou a procura de Estagio<br>🌱 ADS - Unicesumar
 
 
 ## 🌐 Socials:
